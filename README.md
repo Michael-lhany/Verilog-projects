@@ -6,3 +6,4 @@ Different small projects i did while learning verilog
 * Signed structural ALU
 * Up Down Counter
 * Automatic garage door controller
+* CRC
