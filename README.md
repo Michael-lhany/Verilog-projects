@@ -1,6 +1,6 @@
 # Verilog-projects
 Different small Verilog projects
-# Examples:
+## Examples:
 Register File
 16_bit ALU
 Signed structural ALU
