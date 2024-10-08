@@ -7,3 +7,4 @@ Different small projects i did while learning verilog
 * Up Down Counter
 * Automatic garage door controller
 * CRC
+* Integer clock divider
